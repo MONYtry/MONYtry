@@ -36,7 +36,7 @@ I enjoy learning by creating projects that solve real problems.
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-Development-red?style=flat-square&logo=java)
 ![HTML](https://img.shields.io/badge/HTML-Web-orange?style=flat-square&logo=html5)
-![C#](https://img.shields.io/badge/C-sharp-purple?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/C-sharp-purple?style=flat-square&logo=csharp)
 ### Areas
 
 - 🌐 Network Programming
