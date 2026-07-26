@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm MONYtry 👋
 
-<!--
-**MONYtry/MONYtry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Developer focused on making Applications, Networking & Automation
 
-Here are some ideas to get you started:
+I build projects around:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python  
+🌐 Network Programming  
+🏠 Smart Home / IoT  
+🔐 Cybersecurity  
+
+## Featured Projects
+
+📺 Philips SmartHome Controller
+- Control Philips TVs over local network
+
+🌐 Networking Tool
+- Network utilities written in Python
+
+🎮 Minecraft Plugins
+- Java server-side development
+
+## Currently learning
+
+- Advanced Python
+- Software Architecture
+- Cybersecurity
+- Automation
