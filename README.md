@@ -1,7 +1,7 @@
 # WHO AM I?
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Pythoen-3.x-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Networking-TCP%2FSockets-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Security-TLS-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-TE-purple?style=for-the-badge">
