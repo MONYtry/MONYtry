@@ -52,40 +52,6 @@ I enjoy learning by creating projects that solve real problems.
 
 ---
 
-# ⭐ Featured Projects
-
-## 📺 Philips SmartHome Controller
-
-Python-based Smart Home controller for Philips TVs.
-
-Features:
-- Remote power control
-- Network API communication
-- Device status monitoring
-- Secure configuration handling
-
-
-## 🌐 Networking Tool
-
-A Python toolkit for exploring and working with networks.
-
-Focus areas:
-- Network communication
-- Diagnostics
-- Socket programming
-
-
-## 🎮 Minecraft Plugins
-
-Java-based Minecraft server plugins.
-
-Projects include:
-- Server systems
-- Gameplay features
-- Custom mechanics
-
----
-
 # 📚 Currently Learning
 
 🚀 Advanced Python  
