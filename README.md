@@ -35,10 +35,11 @@ I enjoy learning by creating projects that solve real problems.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-Development-red?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-Web-orange?style=flat-square&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=flat-square&logo=javascript&logoColor=yellow)
 ![CSS](https://img.shields.io/badge/CSS-303030?style=flat-square&logo=css&logoColor=orange)
-![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=csharp&logoColor=white)
+
 
 ### Areas
 
