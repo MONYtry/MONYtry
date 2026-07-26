@@ -37,6 +37,7 @@ I enjoy learning by creating projects that solve real problems.
 ![Java](https://img.shields.io/badge/Java-Development-red?style=flat-square&logo=java)
 ![HTML](https://img.shields.io/badge/HTML-Web-orange?style=flat-square&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat-square&logo=css&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=csharp&logoColor=white)
 
 ### Areas
