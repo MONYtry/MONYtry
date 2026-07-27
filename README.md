@@ -65,6 +65,8 @@ I enjoy learning by creating projects that solve real problems.
 # 📈 Goals
 
 My goal is to continuously improve as a developer by creating useful software, learning modern technologies, and building projects that combine programming with real-world applications.
+**Discord:** `anonym3753`
+
 
 ---
 
