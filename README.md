@@ -49,6 +49,7 @@ I enjoy learning by creating projects that solve real problems.
 - 🔒 Security Concepts
 - 🖥️ Application Development
 - 🛠️ Automation
+- 🌐 Web Development
 
 ---
 
